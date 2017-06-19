@@ -73,13 +73,11 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-
                 android:src="@drawable/ic_jellybean_green" />
         <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-
                 android:src="@drawable/ic_jellybean_blue" />
     </LinearLayout>
 </LinearLayout>

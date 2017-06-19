@@ -3,7 +3,9 @@
 
     <iconback img1="ic_folder" />
     <iconmask img="ic_mask" />
-    <scale factor="0.68" />
+    <!-- <scale factor="0.68" /> -->
+
+    <item component="ComponentInfo{es.infected.s8icons/es.infected.s8icons.MainActivity}" drawable="hotlink_red" />
 
     <item component=":BROWSER" drawable="browser" />
     <item component=":SMS" drawable="messages" />

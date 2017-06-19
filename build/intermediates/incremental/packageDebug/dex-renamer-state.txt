@@ -1,4 +1,7 @@
-#Thu Jun 15 15:46:02 CEST 2017
-base.0=N\:\\android\\Android Studio Projects\\NovaLauncher-S8-IconPack\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=N\:\\android\\Android Studio Projects\\NovaLauncher-S8-IconPack\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+#Mon Jun 19 11:00:20 CEST 2017
+base.0=N\:\\android\\Android Studio Projects\\NovaLauncher-S8-IconPack\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0f7fe3b3a486e4432688a76042575e17bed4ed35
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=N\:\\android\\Android Studio Projects\\NovaLauncher-S8-IconPack\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2591ffb4ad29a07a22a7c148ecf0ccadd53b5799\\classes.dex
+base.1=N\:\\android\\Android Studio Projects\\NovaLauncher-S8-IconPack\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2591ffb4ad29a07a22a7c148ecf0ccadd53b5799
+file.0=N\:\\android\\Android Studio Projects\\NovaLauncher-S8-IconPack\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0f7fe3b3a486e4432688a76042575e17bed4ed35\\classes.dex

@@ -3,6 +3,24 @@
 
     <item
         is-multidex="true"
+        jar="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2591ffb4ad29a07a22a7c148ecf0ccadd53b5799\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e3df76ec35569d542b355929421d4f8b5548232d">
+        <dex dex="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0f7fe3b3a486e4432688a76042575e17bed4ed35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
@@ -15,7 +33,7 @@
         jar="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.0"
+        revision="25.0.3"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2591ffb4ad29a07a22a7c148ecf0ccadd53b5799\classes.dex" />
     </item>

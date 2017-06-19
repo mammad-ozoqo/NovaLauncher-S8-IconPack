@@ -1,4 +1,4 @@
-#Thu Jun 15 10:58:34 CEST 2017
+#Mon Jun 19 10:50:46 CEST 2017
 base.0=N\:\\android\\Android Studio Projects\\NovaLauncher-S8-IconPack\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
 renamed.0=classes.dex
 file.0=N\:\\android\\Android Studio Projects\\NovaLauncher-S8-IconPack\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0\\classes.dex

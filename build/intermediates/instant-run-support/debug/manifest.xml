@@ -10,7 +10,7 @@
 
     <application
         android:allowBackup="false"
-        android:icon="@drawable/ic_jellybean"
+        android:icon="@drawable/hotlink_red"
         android:label="@string/app_name"
         android:persistent="false" >
         <activity
