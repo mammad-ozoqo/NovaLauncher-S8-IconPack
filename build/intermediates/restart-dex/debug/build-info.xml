@@ -2,75 +2,97 @@
 <instant-run
     abi="x86_64,x86"
     api-level="23"
-    build-mode="COLD"
-    density="560dpi"
+    build-mode="FULL"
+    density="xxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1497862756393"
-    token="5386119483733489285"
-    verifier="COLD_SWAP_REQUESTED" >
+    timestamp="1497887779317"
+    token="2409877514813353586"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="585" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="94" />
     <task
         name="verifier"
-        duration="0" />
+        duration="21" />
 
     <artifact
-        location="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\build\outputs\apk\NovaLauncher-S8-IconPack-debug.apk"
+        location="E:\android.projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\android.projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\android.projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\android.projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\android.projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\android.projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\android.projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\android.projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\android.projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\android.projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\android.projects\NovaLauncher-S8-IconPack\build\outputs\apk\NovaLauncher-S8-IconPack-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1497862212167"
+        timestamp="1497887779317"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="E:\android.projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="E:\android.projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="E:\android.projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="E:\android.projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="E:\android.projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="E:\android.projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="E:\android.projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="E:\android.projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="E:\android.projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="E:\android.projects\NovaLauncher-S8-IconPack\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\build\outputs\apk\NovaLauncher-S8-IconPack-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1497862756393"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\build\outputs\apk\NovaLauncher-S8-IconPack-debug.apk"
+            location="E:\android.projects\NovaLauncher-S8-IconPack\build\outputs\apk\NovaLauncher-S8-IconPack-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 

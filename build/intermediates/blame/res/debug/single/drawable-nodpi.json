@@ -1,14 +1,14 @@
 [
     {
-        "merged": "N:\\android\\Android Studio Projects\\NovaLauncher-S8-IconPack\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\wallpaper_blue.png",
-        "source": "N:\\android\\Android Studio Projects\\NovaLauncher-S8-IconPack\\res\\drawable-nodpi\\wallpaper_blue.png"
+        "merged": "E:\\android.projects\\NovaLauncher-S8-IconPack\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\wallpaper_green.png",
+        "source": "E:\\android.projects\\NovaLauncher-S8-IconPack\\res\\drawable-nodpi\\wallpaper_green.png"
     },
     {
-        "merged": "N:\\android\\Android Studio Projects\\NovaLauncher-S8-IconPack\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\wallpaper_green.png",
-        "source": "N:\\android\\Android Studio Projects\\NovaLauncher-S8-IconPack\\res\\drawable-nodpi\\wallpaper_green.png"
+        "merged": "E:\\android.projects\\NovaLauncher-S8-IconPack\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\wallpaper_red.png",
+        "source": "E:\\android.projects\\NovaLauncher-S8-IconPack\\res\\drawable-nodpi\\wallpaper_red.png"
     },
     {
-        "merged": "N:\\android\\Android Studio Projects\\NovaLauncher-S8-IconPack\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\wallpaper_red.png",
-        "source": "N:\\android\\Android Studio Projects\\NovaLauncher-S8-IconPack\\res\\drawable-nodpi\\wallpaper_red.png"
+        "merged": "E:\\android.projects\\NovaLauncher-S8-IconPack\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\wallpaper_blue.png",
+        "source": "E:\\android.projects\\NovaLauncher-S8-IconPack\\res\\drawable-nodpi\\wallpaper_blue.png"
     }
 ]
