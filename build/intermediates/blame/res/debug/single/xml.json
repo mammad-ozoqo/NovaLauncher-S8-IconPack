@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "N:\\android\\Android Studio Projects\\NovaLauncher-S8-IconPack\\build\\intermediates\\res\\merged\\debug\\xml\\theme_patterns.xml",
+        "source": "N:\\android\\Android Studio Projects\\NovaLauncher-S8-IconPack\\res\\xml\\theme_patterns.xml"
+    },
+    {
+        "merged": "N:\\android\\Android Studio Projects\\NovaLauncher-S8-IconPack\\build\\intermediates\\res\\merged\\debug\\xml\\theme_wallpapers.xml",
+        "source": "N:\\android\\Android Studio Projects\\NovaLauncher-S8-IconPack\\res\\xml\\theme_wallpapers.xml"
+    },
+    {
+        "merged": "N:\\android\\Android Studio Projects\\NovaLauncher-S8-IconPack\\build\\intermediates\\res\\merged\\debug\\xml\\appfilter.xml",
+        "source": "N:\\android\\Android Studio Projects\\NovaLauncher-S8-IconPack\\res\\xml\\appfilter.xml"
+    },
+    {
+        "merged": "N:\\android\\Android Studio Projects\\NovaLauncher-S8-IconPack\\build\\intermediates\\res\\merged\\debug\\xml\\drawable.xml",
+        "source": "N:\\android\\Android Studio Projects\\NovaLauncher-S8-IconPack\\res\\xml\\drawable.xml"
+    }
+]

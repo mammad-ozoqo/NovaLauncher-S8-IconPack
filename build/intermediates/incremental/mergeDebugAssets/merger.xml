@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\assets"/><source path="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="N:\android\Android Studio Projects\NovaLauncher-S8-IconPack\src\debug\assets"/></dataSet></merger>
